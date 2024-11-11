@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d2704689-04cc-4650-b95a-5f9b231ed0cc)
+
+
 # SimpleUniversalGuiClicker (SUGC)
 I do love playing clicker/idle games. Most of the time i use some kind of autoclicker, which is just a macro on my mouse. 
 Therefore i build this simple GUI-Programm with [Dearpygui](https://github.com/hoffstadt/DearPyGui) to create a Clicker which should work in every window.
