@@ -1,5 +1,4 @@
 import dearpygui.dearpygui as dpg
-import config.config as config
 import threading
 from pynput.keyboard import Key,KeyCode
 from pynput import keyboard
