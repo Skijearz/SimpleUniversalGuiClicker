@@ -2,9 +2,8 @@
 
 
 # SimpleUniversalGuiClicker (SUGC)
-I do love playing clicker/idle games. Most of the time i use some kind of autoclicker, which is just a macro on my mouse. 
-Therefore i build this simple GUI-Programm with [Dearpygui](https://github.com/hoffstadt/DearPyGui) to create a Clicker which should work in every window.
- SUGC should be able to click into windows which are not active nor focused and utilizes the win32api from [pywin32](https://github.com/mhammond/pywin32)
+I enjoy playing clicker and idle games, but using a basic macro on my mouse as an autoclicker often feels limiting. To address this, I developed a simple GUI program using  [Dearpygui](https://github.com/hoffstadt/DearPyGui), designed to function as a versatile autoclicker for any window. SUGC (Simple Universal GUI Clicker) can simulate clicks in windows that are neither active nor focused, leveraging the win32api from the [pywin32](https://github.com/mhammond/pywin32) library.
+
 
 
 ## Limitations
